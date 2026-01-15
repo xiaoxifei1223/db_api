@@ -1,8 +1,13 @@
-D:\MyCode\db_api\src\main\java\com\example\dbapi\controller\SolutionDesignController.java
 D:\MyCode\db_api\src\main\java\com\example\dbapi\configuration\JpaConfiguration.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\entity\AIModelIssue.java
 D:\MyCode\db_api\src\main\java\com\example\dbapi\repository\SolutionDesignRepository.java
 D:\MyCode\db_api\src\main\java\com\example\dbapi\service\SolutionDesignService.java
 D:\MyCode\db_api\src\main\java\com\example\dbapi\Application.java
 D:\MyCode\db_api\src\main\java\com\example\dbapi\constant\ReviewStatus.java
-D:\MyCode\db_api\src\main\java\com\example\dbapi\model\SolutionDesignRequest.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\service\AIModelIssueService.java
 D:\MyCode\db_api\src\main\java\com\example\dbapi\entity\SolutionDesign.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\model\AIModelIssueRequest.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\controller\SolutionDesignController.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\repository\AIModelIssueRepository.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\controller\AIModelIssueController.java
+D:\MyCode\db_api\src\main\java\com\example\dbapi\model\SolutionDesignRequest.java
